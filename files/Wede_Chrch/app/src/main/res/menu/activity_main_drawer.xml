@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_action_lock"
+            android:title="Log In" />
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/ic_action_user"
+            android:title="Sign Up" />
+        <item
+            android:id="@+id/nav_addchurch"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Add Church" />
+        <item
+            android:id="@+id/nav_showall"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Show All Church" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Log Out" />
+    </group>
+
+
+
+</menu>

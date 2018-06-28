@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">Wede_Chrch</string>
+    <string name="user_nametext">User Name</string>
+    <string name="passwordtext">Password</string>
+    <string name="loginbtext">Login</string>
+    <string name="register_heretext">Register Here</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">LogOut</string>
+
+
+    <string name="chrch_nametext">cnametxt</string>
+    <string name="denominationtext">dentxt</string>
+    <string name="descriptiontext">destxt</string>
+    <string name="locationtext">loctxt</string>
+    <string name="longitudetext">lontxt</string>
+    <string name="latitudetext">lattxt</string>
+    <string name="please_allow_your_device_locationtxt">allowtxt</string>
+    <string name="chrch_nametxt">Chrch Name</string>
+    <string name="denominationtxt">Denomination</string>
+    <string name="descriptiontxt">Description</string>
+    <string name="locationtxt">Location</string>
+    <string name="please_allow_your_device_locationtxt1">please_allow_your_device_location</string>
+    <string name="add_chrchtxt">Add Chrch</string>
+    <string name="chrch_liststxt">Chrch Lists</string>
+    <string name="longitudetxt">Longitude</string>
+    <string name="latitudetxt">Latitude</string>
+    <string name="agetxt">Age</string>
+    <string name="registertxt">REGISTER</string>
+    <string name="first_nametxt">First Name</string>
+    <string name="last_nametxt">Last Name</string>
+    <string name="citytxt">City</string>
+    <string name="regiontxt">Region</string>
+    <string name="sextxt">Sex</string>
+    <string name="phone_numbertxt">Phone Number</string>
+    <string name="phone_numberchc">Phone Number</string>
+    <string name="todotxt">TODO</string>
+    <string name="emaillogintxt">Email</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+
+    <string name="action_example">Example action</string>
+
+</resources>
